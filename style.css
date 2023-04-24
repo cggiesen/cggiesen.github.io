@@ -5,3 +5,31 @@ a {
 a:hover {
   color: darkgray;
 }
+
+/*
+.sidebar-open .page-content {
+  margin-left: 300 px;
+  transition: margin-left 0.3s ease;
+}
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  z-index: 1000;
+  padding: 48px 16px;
+  background-color: #fff;
+  width: 240px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  transition: transform 0.3s ease-in-out;
+  transform: translateX(-100%);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  color: #333;
+}
+
+.sidebar-open {
+  transform: translateX(0%);
+}
+*/
