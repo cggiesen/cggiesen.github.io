@@ -6,6 +6,9 @@ a:hover {
   color: darkgray;
 }
 
+.spacing {
+  margin-top: 20px;
+}
 /*
 .sidebar-open .page-content {
   margin-left: 300 px;
