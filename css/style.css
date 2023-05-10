@@ -9,6 +9,15 @@ a:hover {
 .spacing {
   margin-top: 20px;
 }
+
+h3 {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+h5 {
+  margin-bottom: 20px;
+}
 /*
 .sidebar-open .page-content {
   margin-left: 300 px;
